@@ -1,16 +1,29 @@
-### Hi there 👋
+<div align="center">
+   <h1><img src="https://media.tenor.com/images/af1b615e4f90567a1328b7c320d3a601/tenor.gif" width="30"/> Hi there, I'm Uruk</h1>
 
-<!--
-**Uruknara/Uruknara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--  -->
 
-Here are some ideas to get you started:
+<p align="center" >
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=uruknara&&show_icons=true&theme=radical"/>
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+<br />
+
+ 💻 I'm a Student, a young Developer
+
+---
+<p align="center">
+## 🌍 Programming languages:
+<p>
+  <img alt="java" src="https://img.shields.io/badge/-Java-4495CF?style=flat-square&logo=java&logoColor=white" />
+</p>
+
+---
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/uruknara/count.svg" />
+</p>
