@@ -12,14 +12,7 @@
 
 <br />
 
- 💻 I'm a Student, a young Developer
-
----
-<p align="center">
-## 🌍 Programming languages:
-<p>
-  <img alt="java" src="https://img.shields.io/badge/-Java-4495CF?style=flat-square&logo=java&logoColor=white" />
-</p>
+ 💻 I'm a Student
 
 ---
 
