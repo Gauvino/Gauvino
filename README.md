@@ -1,4 +1,4 @@
-[![Hi, I'm Gauvino](./assets/banner.png)](#)
+[![Hi, I'm Gauvino](./assets/Banner.png)](#)
 
 <span align="center">
   
