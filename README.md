@@ -1,3 +1,13 @@
+[![Hi, I'm Gauvino](./assets/banner.png)](#)
+
+<span align="center">
+  
+  <a href="mailto:contact@uruk.dev"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Gauvino)
+  [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/11174424210)
+  
+</span>
+
 <div align="center">
    <h1><img src="https://media.tenor.com/images/af1b615e4f90567a1328b7c320d3a601/tenor.gif" width="30"/> Hi there, I'm Gauvino</h1>
 
