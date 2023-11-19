@@ -21,6 +21,6 @@
 
 <span align="center">
   
-  [![Gauvino's Spotify Music](https://data-card-for-spotify.herokuapp.com/api/card?user_id=11174424210)](#)
+  [![Gauvino's Spotify Music]([https://data-card-for-spotify.herokuapp.com/api/card?user_id=11174424210])](#)
   
 </span>
